@@ -9,5 +9,3 @@ for right in range(1,len(nums)):
 maxi = max(maxi,len(nums)-left)
 
 print("length of longest increasing sequence by 1 is:", maxi)
-
-
